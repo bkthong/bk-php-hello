@@ -3,9 +3,8 @@
 
 <body>
 <?php
-echo "<h1>Welcome</h1>"
-
-echo "The date today is " . date("Y-m-d") . <br/>
+echo "<h1>Welcome</h1>" ;
+echo "The date today is " . date("Y-m-d") . <br/> ;
 ?>
 
 </body>
