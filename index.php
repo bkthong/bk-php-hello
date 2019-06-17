@@ -4,7 +4,7 @@
 <body>
 <?php
 echo "<h1>Welcome</h1>" ;
-echo "The date today is " . date("Y-m-d H:i:s") . "<br/>" ;
+echo "The date today is " . date("Y-m-d H:i:s e") . "<br/>" ;
 ?>
 
 </body>
